@@ -9,7 +9,7 @@ body {
 .contacto {
     width: 60%;
     margin: 50px auto;
-    background: white;
+    background: rgb(197, 197, 197);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
@@ -38,8 +38,10 @@ input, textarea {
 
 button {
     margin-top: 15px;
-    padding: 10px;
-    background-color: #4CAF50;
+    width: 40%;
+    align-self: center;
+    padding: 15px;
+    background-color: #1c28cf;
     color: white;
     border: none;
     border-radius: 5px;
@@ -47,5 +49,5 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #314dee;
 }
